@@ -2,10 +2,19 @@
 
 Redis Vector Bot is a chat bot that utilizes Redis as a vector store and query database. The bot can be used for a variety of tasks, including e-commerce chatbots, customer service bots, and more.
 
+- [x] Console bot
+- [ ] HTTP bot
+
 ## References
-To learn more about how Redis Vector Bot works, check out the Redis Blog.
+
+To learn more about how Redis Vector Bot works, check out the Redis Blog:  
+https://redis.com/blog/build-ecommerce-chatbot-with-redis/
+
+Or orginal repo:  
+https://github.com/RedisVentures/redis-langchain-chatbot
 
 ## Getting Started
+
 Follow the steps below to set up Redis Vector Bot:
 
 ### 1. First, export your OpenAI API key by running the following command:
