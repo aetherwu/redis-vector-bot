@@ -10,7 +10,7 @@ from redisearch import Client, IndexDefinition
 import redis
 
 # set your openAI api key as an environment variable
-os.environ['OPENAI_API_KEY'] = ""
+# os.environ['OPENAI_API_KEY'] = ""
 
 # Function to check if the index exists
 def checkIndex(client, index_name):
